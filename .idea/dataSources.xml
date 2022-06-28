@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="hibernate.cfg.xml/Hibernate" uuid="4c0de5f1-9972-4bc6-b1aa-6fb8291583b9">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>Hibernate
+
+/home/nafish/Desktop/esdproject/src/main/resources/hibernate.cfg.xml</remarks>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/esdprojectdb?createDatabaseIfNotExist=true</jdbc-url>
+    </data-source>
+  </component>
+</project>
